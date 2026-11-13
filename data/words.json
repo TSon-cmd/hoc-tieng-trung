@@ -1,0 +1,3351 @@
+{
+ "topics": {
+  "chao-hoi": "Chào hỏi & lịch sự",
+  "nguoi": "Đại từ & con người",
+  "cau-hoi": "Từ để hỏi",
+  "so-dem": "Số đếm",
+  "thoi-gian": "Thời gian",
+  "cong-viec": "Công việc",
+  "dong-tu": "Động từ cơ bản",
+  "hu-tu": "Phó từ & hư từ"
+ },
+ "words": [
+  {
+   "id": "hsk1-005",
+   "hanzi": "你",
+   "pinyin": "nǐ",
+   "pinyinNumeric": "ni3",
+   "topic": "chao-hoi",
+   "vi": "bạn, anh, chị (thân mật)",
+   "example": {
+    "zh": "你好！",
+    "pinyin": "Nǐ hǎo!",
+    "vi": "Xin chào!"
+   },
+   "note": "你好 đọc là ní hǎo (biến điệu thanh 3 + thanh 3)",
+   "audio": true,
+   "notePy": "nǐ hǎo đọc là ní hǎo (biến điệu thanh 3 + thanh 3)"
+  },
+  {
+   "id": "hsk1-144",
+   "hanzi": "您",
+   "pinyin": "nín",
+   "pinyinNumeric": "nin2",
+   "topic": "chao-hoi",
+   "vi": "ông, bà, anh, chị (lịch sự)",
+   "example": {
+    "zh": "您贵姓？",
+    "pinyin": "Nín guì xìng?",
+    "vi": "Quý danh của anh/chị là gì?"
+   },
+   "note": "Dùng với đối tác, khách hàng, người lớn tuổi",
+   "audio": true,
+   "notePy": "Dùng với đối tác, khách hàng, người lớn tuổi"
+  },
+  {
+   "id": "hsk1-003",
+   "hanzi": "我",
+   "pinyin": "wǒ",
+   "pinyinNumeric": "wo3",
+   "topic": "chao-hoi",
+   "vi": "tôi",
+   "example": {
+    "zh": "我是越南人。",
+    "pinyin": "Wǒ shì Yuènán rén.",
+    "vi": "Tôi là người Việt Nam."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-018",
+   "hanzi": "好",
+   "pinyin": "hǎo",
+   "pinyinNumeric": "hao3",
+   "topic": "chao-hoi",
+   "vi": "tốt, khỏe, được",
+   "example": {
+    "zh": "好，我们明天见。",
+    "pinyin": "Hǎo, wǒmen míngtiān jiàn.",
+    "vi": "Được, mai chúng ta gặp nhau."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-004",
+   "hanzi": "是",
+   "pinyin": "shì",
+   "pinyinNumeric": "shi4",
+   "topic": "chao-hoi",
+   "vi": "là; đúng vậy",
+   "example": {
+    "zh": "他是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "vi": "Anh ấy là bạn của tôi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-112",
+   "hanzi": "请",
+   "pinyin": "qǐng",
+   "pinyinNumeric": "qing3",
+   "topic": "chao-hoi",
+   "vi": "mời; xin vui lòng",
+   "example": {
+    "zh": "请喝茶。",
+    "pinyin": "Qǐng hē chá.",
+    "vi": "Mời anh/chị uống trà."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-407",
+   "hanzi": "请问",
+   "pinyin": "qǐngwèn",
+   "pinyinNumeric": "qing3 wen4",
+   "topic": "chao-hoi",
+   "vi": "xin hỏi",
+   "example": {
+    "zh": "请问，您是王先生吗？",
+    "pinyin": "Qǐngwèn, nín shì Wáng xiānsheng ma?",
+    "vi": "Xin hỏi, ông có phải là ông Vương không?"
+   },
+   "note": "Câu mở đầu lịch sự khi hỏi ai đó",
+   "audio": true,
+   "notePy": "Câu mở đầu lịch sự khi hỏi ai đó"
+  },
+  {
+   "id": "hsk1-180",
+   "hanzi": "谢谢",
+   "pinyin": "xièxie",
+   "pinyinNumeric": "xie4 xie5",
+   "topic": "chao-hoi",
+   "vi": "cảm ơn",
+   "example": {
+    "zh": "谢谢您！",
+    "pinyin": "Xièxie nín!",
+    "vi": "Cảm ơn anh/chị!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-487",
+   "hanzi": "不客气",
+   "pinyin": "bùkèqi",
+   "pinyinNumeric": "bu4 ke4 qi5",
+   "topic": "chao-hoi",
+   "vi": "không có gì (đáp lại lời cảm ơn)",
+   "example": {
+    "zh": "谢谢！— 不客气。",
+    "pinyin": "Xièxie! — Bú kèqi.",
+    "vi": "Cảm ơn! — Không có gì."
+   },
+   "note": "不 đọc thành bú trước thanh 4",
+   "audio": false,
+   "notePy": "bù đọc thành bú trước thanh 4"
+  },
+  {
+   "id": "hsk1-317",
+   "hanzi": "对不起",
+   "pinyin": "duìbuqǐ",
+   "pinyinNumeric": "dui4 bu5 qi3",
+   "topic": "chao-hoi",
+   "vi": "xin lỗi",
+   "example": {
+    "zh": "对不起，我来晚了。",
+    "pinyin": "Duìbuqǐ, wǒ lái wǎn le.",
+    "vi": "Xin lỗi, tôi đến muộn."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-400",
+   "hanzi": "没关系",
+   "pinyin": "méiguānxi",
+   "pinyinNumeric": "mei2 guan1 xi5",
+   "topic": "chao-hoi",
+   "vi": "không sao, không vấn đề gì",
+   "example": {
+    "zh": "没关系，请坐。",
+    "pinyin": "Méi guānxi, qǐng zuò.",
+    "vi": "Không sao, mời ngồi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-366",
+   "hanzi": "再见",
+   "pinyin": "zàijiàn",
+   "pinyinNumeric": "zai4 jian4",
+   "topic": "chao-hoi",
+   "vi": "tạm biệt",
+   "example": {
+    "zh": "王先生，再见！",
+    "pinyin": "Wáng xiānsheng, zàijiàn!",
+    "vi": "Tạm biệt ông Vương!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-009",
+   "hanzi": "他",
+   "pinyin": "tā",
+   "pinyinNumeric": "ta1",
+   "topic": "nguoi",
+   "vi": "anh ấy, ông ấy",
+   "example": {
+    "zh": "他是我的老师。",
+    "pinyin": "Tā shì wǒ de lǎoshī.",
+    "vi": "Anh ấy là thầy giáo của tôi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-030",
+   "hanzi": "她",
+   "pinyin": "tā",
+   "pinyinNumeric": "ta1",
+   "topic": "nguoi",
+   "vi": "cô ấy, bà ấy",
+   "example": {
+    "zh": "她叫什么名字？",
+    "pinyin": "Tā jiào shénme míngzi?",
+    "vi": "Cô ấy tên là gì?"
+   },
+   "note": "Đọc giống 他, chỉ khác chữ viết",
+   "audio": true,
+   "notePy": "Đọc giống tā, chỉ khác chữ viết"
+  },
+  {
+   "id": "hsk1-016",
+   "hanzi": "我们",
+   "pinyin": "wǒmen",
+   "pinyinNumeric": "wo3 men5",
+   "topic": "nguoi",
+   "vi": "chúng tôi, chúng ta",
+   "example": {
+    "zh": "我们明天开会。",
+    "pinyin": "Wǒmen míngtiān kāihuì.",
+    "vi": "Ngày mai chúng ta họp."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-073",
+   "hanzi": "你们",
+   "pinyin": "nǐmen",
+   "pinyinNumeric": "ni3 men5",
+   "topic": "nguoi",
+   "vi": "các bạn, các anh chị",
+   "example": {
+    "zh": "你们好！",
+    "pinyin": "Nǐmen hǎo!",
+    "vi": "Chào các anh chị!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-037",
+   "hanzi": "他们",
+   "pinyin": "tāmen",
+   "pinyinNumeric": "ta1 men5",
+   "topic": "nguoi",
+   "vi": "họ, bọn họ",
+   "example": {
+    "zh": "他们是中国人。",
+    "pinyin": "Tāmen shì Zhōngguó rén.",
+    "vi": "Họ là người Trung Quốc."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-014",
+   "hanzi": "人",
+   "pinyin": "rén",
+   "pinyinNumeric": "ren2",
+   "topic": "nguoi",
+   "vi": "người",
+   "example": {
+    "zh": "你是哪国人？",
+    "pinyin": "Nǐ shì nǎ guó rén?",
+    "vi": "Anh/chị là người nước nào?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-131",
+   "hanzi": "朋友",
+   "pinyin": "péngyou",
+   "pinyinNumeric": "peng2 you5",
+   "topic": "nguoi",
+   "vi": "bạn bè",
+   "example": {
+    "zh": "他是我的中国朋友。",
+    "pinyin": "Tā shì wǒ de Zhōngguó péngyou.",
+    "vi": "Anh ấy là bạn người Trung Quốc của tôi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-198",
+   "hanzi": "先生",
+   "pinyin": "xiānsheng",
+   "pinyinNumeric": "xian1 sheng5",
+   "topic": "nguoi",
+   "vi": "ông, ngài; chồng",
+   "example": {
+    "zh": "李先生，您好！",
+    "pinyin": "Lǐ xiānsheng, nín hǎo!",
+    "vi": "Chào ông Lý!"
+   },
+   "note": "Họ + 先生 = cách gọi lịch sự với nam giới",
+   "audio": true,
+   "notePy": "Họ + xiānsheng = cách gọi lịch sự với nam giới"
+  },
+  {
+   "id": "hsk1-316",
+   "hanzi": "小姐",
+   "pinyin": "xiǎojie",
+   "pinyinNumeric": "xiao3 jie5",
+   "topic": "nguoi",
+   "vi": "cô (gọi phụ nữ trẻ)",
+   "example": {
+    "zh": "王小姐，您好！",
+    "pinyin": "Wáng xiǎojiě, nín hǎo!",
+    "vi": "Chào cô Vương!"
+   },
+   "note": "Nên đi kèm họ; gọi trống không 小姐 có thể gây hiểu lầm",
+   "audio": true,
+   "notePy": "Nên đi kèm họ; gọi trống không xiǎojie có thể gây hiểu lầm"
+  },
+  {
+   "id": "hsk1-228",
+   "hanzi": "老师",
+   "pinyin": "lǎoshī",
+   "pinyinNumeric": "lao3 shi1",
+   "topic": "nguoi",
+   "vi": "thầy giáo, cô giáo",
+   "example": {
+    "zh": "我的汉语老师是中国人。",
+    "pinyin": "Wǒ de Hànyǔ lǎoshī shì Zhōngguó rén.",
+    "vi": "Giáo viên tiếng Trung của tôi là người Trung Quốc."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-234",
+   "hanzi": "名字",
+   "pinyin": "míngzi",
+   "pinyinNumeric": "ming2 zi5",
+   "topic": "nguoi",
+   "vi": "tên",
+   "example": {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "vi": "Bạn tên là gì?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-108",
+   "hanzi": "叫",
+   "pinyin": "jiào",
+   "pinyinNumeric": "jiao4",
+   "topic": "nguoi",
+   "vi": "tên là; gọi",
+   "example": {
+    "zh": "我叫阮山。",
+    "pinyin": "Wǒ jiào Ruǎn Shān.",
+    "vi": "Tôi tên là Nguyễn Sơn."
+   },
+   "note": "阮 = Nguyễn, 山 = Sơn",
+   "audio": true,
+   "notePy": "Ruǎn = Nguyễn, shān = Sơn"
+  },
+  {
+   "id": "hsk1-040",
+   "hanzi": "什么",
+   "pinyin": "shénme",
+   "pinyinNumeric": "shen2 me5",
+   "topic": "cau-hoi",
+   "vi": "gì, cái gì",
+   "example": {
+    "zh": "这是什么？",
+    "pinyin": "Zhè shì shénme?",
+    "vi": "Đây là cái gì?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-083",
+   "hanzi": "谁",
+   "pinyin": "shéi",
+   "pinyinNumeric": "shei2",
+   "topic": "cau-hoi",
+   "vi": "ai",
+   "example": {
+    "zh": "他是谁？",
+    "pinyin": "Tā shì shéi?",
+    "vi": "Anh ấy là ai?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-191",
+   "hanzi": "哪",
+   "pinyin": "nǎ",
+   "pinyinNumeric": "na3",
+   "topic": "cau-hoi",
+   "vi": "nào",
+   "example": {
+    "zh": "你要哪个？",
+    "pinyin": "Nǐ yào nǎ ge?",
+    "vi": "Bạn muốn cái nào?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-369",
+   "hanzi": "哪儿",
+   "pinyin": "nǎr",
+   "pinyinNumeric": "na3 r5",
+   "topic": "cau-hoi",
+   "vi": "ở đâu",
+   "example": {
+    "zh": "你在哪儿？",
+    "pinyin": "Nǐ zài nǎr?",
+    "vi": "Bạn đang ở đâu?"
+   },
+   "note": null,
+   "audio": false
+  },
+  {
+   "id": "hsk1-099",
+   "hanzi": "几",
+   "pinyin": "jǐ",
+   "pinyinNumeric": "ji3",
+   "topic": "cau-hoi",
+   "vi": "mấy (số nhỏ)",
+   "example": {
+    "zh": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "vi": "Bây giờ là mấy giờ?"
+   },
+   "note": "Dùng khi đoán số nhỏ hơn 10",
+   "audio": true,
+   "notePy": "Dùng khi đoán số nhỏ hơn 10"
+  },
+  {
+   "id": "hsk1-182",
+   "hanzi": "多少",
+   "pinyin": "duōshǎo",
+   "pinyinNumeric": "duo1 shao3",
+   "topic": "cau-hoi",
+   "vi": "bao nhiêu",
+   "example": {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "vi": "Cái này bao nhiêu tiền?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-076",
+   "hanzi": "怎么",
+   "pinyin": "zěnme",
+   "pinyinNumeric": "zen3 me5",
+   "topic": "cau-hoi",
+   "vi": "thế nào, làm sao",
+   "example": {
+    "zh": "这个用汉语怎么说？",
+    "pinyin": "Zhège yòng Hànyǔ zěnme shuō?",
+    "vi": "Cái này tiếng Trung nói thế nào?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-057",
+   "hanzi": "吗",
+   "pinyin": "ma",
+   "pinyinNumeric": "ma5",
+   "topic": "cau-hoi",
+   "vi": "(trợ từ hỏi) … không?",
+   "example": {
+    "zh": "你忙吗？",
+    "pinyin": "Nǐ máng ma?",
+    "vi": "Anh/chị có bận không?"
+   },
+   "note": "Thêm 吗 cuối câu khẳng định để thành câu hỏi có/không",
+   "audio": true,
+   "notePy": "Thêm ma cuối câu khẳng định để thành câu hỏi có/không"
+  },
+  {
+   "id": "hsk1-019",
+   "hanzi": "一",
+   "pinyin": "yī",
+   "pinyinNumeric": "yi1",
+   "topic": "so-dem",
+   "vi": "một",
+   "example": {
+    "zh": "一个人",
+    "pinyin": "yí ge rén",
+    "vi": "một người"
+   },
+   "note": "一 đổi thanh: yí trước thanh 4, yì trước thanh 1/2/3",
+   "audio": true,
+   "notePy": "yī đổi thanh: yí trước thanh 4, yì trước thanh 1/2/3"
+  },
+  {
+   "id": "hsk1-208",
+   "hanzi": "二",
+   "pinyin": "èr",
+   "pinyinNumeric": "er4",
+   "topic": "so-dem",
+   "vi": "hai (khi đếm số)",
+   "example": {
+    "zh": "二月",
+    "pinyin": "èr yuè",
+    "vi": "tháng Hai"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-117",
+   "hanzi": "三",
+   "pinyin": "sān",
+   "pinyinNumeric": "san1",
+   "topic": "so-dem",
+   "vi": "ba",
+   "example": {
+    "zh": "三个人",
+    "pinyin": "sān ge rén",
+    "vi": "ba người"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-174",
+   "hanzi": "四",
+   "pinyin": "sì",
+   "pinyinNumeric": "si4",
+   "topic": "so-dem",
+   "vi": "bốn",
+   "example": {
+    "zh": "星期四",
+    "pinyin": "xīngqīsì",
+    "vi": "thứ Năm"
+   },
+   "note": "Chú ý: 星期四 là thứ Năm, không phải thứ Tư",
+   "audio": true,
+   "notePy": "Chú ý: xīngqīsì là thứ Năm, không phải thứ Tư"
+  },
+  {
+   "id": "hsk1-197",
+   "hanzi": "五",
+   "pinyin": "wǔ",
+   "pinyinNumeric": "wu3",
+   "topic": "so-dem",
+   "vi": "năm",
+   "example": {
+    "zh": "五点",
+    "pinyin": "wǔ diǎn",
+    "vi": "năm giờ"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-229",
+   "hanzi": "六",
+   "pinyin": "liù",
+   "pinyinNumeric": "liu4",
+   "topic": "so-dem",
+   "vi": "sáu",
+   "example": {
+    "zh": "六月",
+    "pinyin": "liù yuè",
+    "vi": "tháng Sáu"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-300",
+   "hanzi": "七",
+   "pinyin": "qī",
+   "pinyinNumeric": "qi1",
+   "topic": "so-dem",
+   "vi": "bảy",
+   "example": {
+    "zh": "七天",
+    "pinyin": "qī tiān",
+    "vi": "bảy ngày"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-296",
+   "hanzi": "八",
+   "pinyin": "bā",
+   "pinyinNumeric": "ba1",
+   "topic": "so-dem",
+   "vi": "tám",
+   "example": {
+    "zh": "八号",
+    "pinyin": "bā hào",
+    "vi": "ngày mùng 8"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-343",
+   "hanzi": "九",
+   "pinyin": "jiǔ",
+   "pinyinNumeric": "jiu3",
+   "topic": "so-dem",
+   "vi": "chín",
+   "example": {
+    "zh": "九点开会",
+    "pinyin": "jiǔ diǎn kāihuì",
+    "vi": "họp lúc 9 giờ"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-240",
+   "hanzi": "十",
+   "pinyin": "shí",
+   "pinyinNumeric": "shi2",
+   "topic": "so-dem",
+   "vi": "mười",
+   "example": {
+    "zh": "十个人",
+    "pinyin": "shí ge rén",
+    "vi": "mười người"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-404",
+   "hanzi": "零",
+   "pinyin": "líng",
+   "pinyinNumeric": "ling2",
+   "topic": "so-dem",
+   "vi": "số không",
+   "example": {
+    "zh": "二零二六年",
+    "pinyin": "èr líng èr liù nián",
+    "vi": "năm 2026"
+   },
+   "note": "Đọc năm thì đọc từng chữ số",
+   "audio": true,
+   "notePy": "Đọc năm thì đọc từng chữ số"
+  },
+  {
+   "id": "hsk1-362",
+   "hanzi": "百",
+   "pinyin": "bǎi",
+   "pinyinNumeric": "bai3",
+   "topic": "so-dem",
+   "vi": "trăm",
+   "example": {
+    "zh": "一百块",
+    "pinyin": "yìbǎi kuài",
+    "vi": "một trăm tệ"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-055",
+   "hanzi": "两",
+   "pinyin": "liǎng",
+   "pinyinNumeric": "liang3",
+   "topic": "so-dem",
+   "vi": "hai (đi với lượng từ)",
+   "example": {
+    "zh": "两个人",
+    "pinyin": "liǎng ge rén",
+    "vi": "hai người"
+   },
+   "note": "Trước lượng từ dùng 两, khi đếm số dùng 二",
+   "audio": true,
+   "notePy": "Trước lượng từ dùng liǎng, khi đếm số dùng èr"
+  },
+  {
+   "id": "hsk1-214",
+   "hanzi": "半",
+   "pinyin": "bàn",
+   "pinyinNumeric": "ban4",
+   "topic": "so-dem",
+   "vi": "một nửa; rưỡi",
+   "example": {
+    "zh": "三点半",
+    "pinyin": "sān diǎn bàn",
+    "vi": "ba giờ rưỡi"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-090",
+   "hanzi": "今天",
+   "pinyin": "jīntiān",
+   "pinyinNumeric": "jin1 tian1",
+   "topic": "thoi-gian",
+   "vi": "hôm nay",
+   "example": {
+    "zh": "今天我很忙。",
+    "pinyin": "Jīntiān wǒ hěn máng.",
+    "vi": "Hôm nay tôi rất bận."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-172",
+   "hanzi": "明天",
+   "pinyin": "míngtiān",
+   "pinyinNumeric": "ming2 tian1",
+   "topic": "thoi-gian",
+   "vi": "ngày mai",
+   "example": {
+    "zh": "明天见！",
+    "pinyin": "Míngtiān jiàn!",
+    "vi": "Mai gặp nhé!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-194",
+   "hanzi": "昨天",
+   "pinyin": "zuótiān",
+   "pinyinNumeric": "zuo2 tian1",
+   "topic": "thoi-gian",
+   "vi": "hôm qua",
+   "example": {
+    "zh": "昨天你去哪儿了？",
+    "pinyin": "Zuótiān nǐ qù nǎr le?",
+    "vi": "Hôm qua bạn đi đâu?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-052",
+   "hanzi": "年",
+   "pinyin": "nián",
+   "pinyinNumeric": "nian2",
+   "topic": "thoi-gian",
+   "vi": "năm",
+   "example": {
+    "zh": "今年是二零二六年。",
+    "pinyin": "Jīnnián shì èr líng èr liù nián.",
+    "vi": "Năm nay là năm 2026."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-094",
+   "hanzi": "月",
+   "pinyin": "yuè",
+   "pinyinNumeric": "yue4",
+   "topic": "thoi-gian",
+   "vi": "tháng; mặt trăng",
+   "example": {
+    "zh": "我十月去中国。",
+    "pinyin": "Wǒ shí yuè qù Zhōngguó.",
+    "vi": "Tháng Mười tôi đi Trung Quốc."
+   },
+   "note": "Tên tháng = số + 月: 一月 … 十二月",
+   "audio": true,
+   "notePy": "Tên tháng = số + yuè: yī yuè … shí èr yuè"
+  },
+  {
+   "id": "hsk1-129",
+   "hanzi": "号",
+   "pinyin": "hào",
+   "pinyinNumeric": "hao4",
+   "topic": "thoi-gian",
+   "vi": "ngày (trong tháng); số",
+   "example": {
+    "zh": "今天几号？",
+    "pinyin": "Jīntiān jǐ hào?",
+    "vi": "Hôm nay ngày mấy?"
+   },
+   "note": "Tháng trước, ngày sau: 十月二十八号 = 28/10",
+   "audio": true,
+   "notePy": "Tháng trước, ngày sau: shí yuè èrshíbā hào = 28/10"
+  },
+  {
+   "id": "hsk1-340",
+   "hanzi": "星期",
+   "pinyin": "xīngqī",
+   "pinyinNumeric": "xing1 qi1",
+   "topic": "thoi-gian",
+   "vi": "tuần; thứ",
+   "example": {
+    "zh": "星期一我们开会。",
+    "pinyin": "Xīngqīyī wǒmen kāihuì.",
+    "vi": "Thứ Hai chúng ta họp."
+   },
+   "note": "星期一 = thứ Hai … 星期六 = thứ Bảy; 星期天/星期日 = Chủ nhật",
+   "audio": true,
+   "notePy": "xīngqī yī = thứ Hai … xīngqī liù = thứ Bảy; Xīngqītiān/Xīngqīrì = Chủ nhật"
+  },
+  {
+   "id": "hsk1-042",
+   "hanzi": "点",
+   "pinyin": "diǎn",
+   "pinyinNumeric": "dian3",
+   "topic": "thoi-gian",
+   "vi": "giờ; chút",
+   "example": {
+    "zh": "我们几点见？",
+    "pinyin": "Wǒmen jǐ diǎn jiàn?",
+    "vi": "Mấy giờ chúng ta gặp nhau?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-148",
+   "hanzi": "分",
+   "pinyin": "fēn",
+   "pinyinNumeric": "fen1",
+   "topic": "thoi-gian",
+   "vi": "phút; xu (1/100 tệ)",
+   "example": {
+    "zh": "九点十分",
+    "pinyin": "jiǔ diǎn shí fēn",
+    "vi": "9 giờ 10 phút"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-051",
+   "hanzi": "现在",
+   "pinyin": "xiànzài",
+   "pinyinNumeric": "xian4 zai4",
+   "topic": "thoi-gian",
+   "vi": "bây giờ",
+   "example": {
+    "zh": "现在三点半。",
+    "pinyin": "Xiànzài sān diǎn bàn.",
+    "vi": "Bây giờ là 3 giờ rưỡi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-347",
+   "hanzi": "上午",
+   "pinyin": "shàngwǔ",
+   "pinyinNumeric": "shang4 wu3",
+   "topic": "thoi-gian",
+   "vi": "buổi sáng",
+   "example": {
+    "zh": "明天上午十点开会。",
+    "pinyin": "Míngtiān shàngwǔ shí diǎn kāihuì.",
+    "vi": "10 giờ sáng mai họp."
+   },
+   "note": "Thời gian đứng trước động từ, ngược với tiếng Việt",
+   "audio": true,
+   "notePy": "Thời gian đứng trước động từ, ngược với tiếng Việt"
+  },
+  {
+   "id": "hsk1-225",
+   "hanzi": "下午",
+   "pinyin": "xiàwǔ",
+   "pinyinNumeric": "xia4 wu3",
+   "topic": "thoi-gian",
+   "vi": "buổi chiều",
+   "example": {
+    "zh": "我下午不在。",
+    "pinyin": "Wǒ xiàwǔ bú zài.",
+    "vi": "Buổi chiều tôi không có mặt."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-177",
+   "hanzi": "晚上",
+   "pinyin": "wǎnshang",
+   "pinyinNumeric": "wan3 shang5",
+   "topic": "thoi-gian",
+   "vi": "buổi tối",
+   "example": {
+    "zh": "晚上一起吃饭吧。",
+    "pinyin": "Wǎnshang yìqǐ chīfàn ba.",
+    "vi": "Tối nay cùng ăn cơm nhé."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-075",
+   "hanzi": "时间",
+   "pinyin": "shíjiān",
+   "pinyinNumeric": "shi2 jian1",
+   "topic": "thoi-gian",
+   "vi": "thời gian",
+   "example": {
+    "zh": "你明天有时间吗？",
+    "pinyin": "Nǐ míngtiān yǒu shíjiān ma?",
+    "vi": "Ngày mai anh có thời gian không?"
+   },
+   "note": "Câu hỏi cơ bản khi hẹn lịch",
+   "audio": true,
+   "notePy": "Câu hỏi cơ bản khi hẹn lịch"
+  },
+  {
+   "id": "hsk1-151",
+   "hanzi": "小时",
+   "pinyin": "xiǎoshí",
+   "pinyinNumeric": "xiao3 shi2",
+   "topic": "thoi-gian",
+   "vi": "tiếng (đồng hồ)",
+   "example": {
+    "zh": "开会要两个小时。",
+    "pinyin": "Kāihuì yào liǎng ge xiǎoshí.",
+    "vi": "Cuộc họp mất hai tiếng."
+   },
+   "note": "小时 = khoảng thời gian; 点 = thời điểm",
+   "audio": true,
+   "notePy": "xiǎoshí = khoảng thời gian; diǎn = thời điểm"
+  },
+  {
+   "id": "hsk1-069",
+   "hanzi": "工作",
+   "pinyin": "gōngzuò",
+   "pinyinNumeric": "gong1 zuo4",
+   "topic": "cong-viec",
+   "vi": "công việc; làm việc",
+   "example": {
+    "zh": "你在哪儿工作？",
+    "pinyin": "Nǐ zài nǎr gōngzuò?",
+    "vi": "Anh làm việc ở đâu?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-306",
+   "hanzi": "上班",
+   "pinyin": "shàngbān",
+   "pinyinNumeric": "shang4 ban1",
+   "topic": "cong-viec",
+   "vi": "đi làm",
+   "example": {
+    "zh": "我八点上班。",
+    "pinyin": "Wǒ bā diǎn shàngbān.",
+    "vi": "Tôi đi làm lúc 8 giờ."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-394",
+   "hanzi": "下班",
+   "pinyin": "xiàbān",
+   "pinyinNumeric": "xia4 ban1",
+   "topic": "cong-viec",
+   "vi": "tan làm",
+   "example": {
+    "zh": "你几点下班？",
+    "pinyin": "Nǐ jǐ diǎn xiàbān?",
+    "vi": "Mấy giờ anh tan làm?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-424",
+   "hanzi": "开会",
+   "pinyin": "kāihuì",
+   "pinyinNumeric": "kai1 hui4",
+   "topic": "cong-viec",
+   "vi": "họp",
+   "example": {
+    "zh": "我现在在开会。",
+    "pinyin": "Wǒ xiànzài zài kāihuì.",
+    "vi": "Bây giờ tôi đang họp."
+   },
+   "note": "在 + động từ = đang làm gì",
+   "audio": true,
+   "notePy": "zài + động từ = đang làm gì"
+  },
+  {
+   "id": "hsk1-145",
+   "hanzi": "电话",
+   "pinyin": "diànhuà",
+   "pinyinNumeric": "dian4 hua4",
+   "topic": "cong-viec",
+   "vi": "điện thoại; số điện thoại",
+   "example": {
+    "zh": "你的电话是多少？",
+    "pinyin": "Nǐ de diànhuà shì duōshao?",
+    "vi": "Số điện thoại của anh là bao nhiêu?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-286",
+   "hanzi": "打电话",
+   "pinyin": "dǎdiànhuà",
+   "pinyinNumeric": "da3 dian4 hua4",
+   "topic": "cong-viec",
+   "vi": "gọi điện thoại",
+   "example": {
+    "zh": "明天我给你打电话。",
+    "pinyin": "Míngtiān wǒ gěi nǐ dǎ diànhuà.",
+    "vi": "Mai tôi gọi điện cho anh."
+   },
+   "note": "给 + người + 打电话 = gọi cho ai",
+   "audio": false,
+   "notePy": "gěi + người + dǎdiànhuà = gọi cho ai"
+  },
+  {
+   "id": "hsk1-238",
+   "hanzi": "手机",
+   "pinyin": "shǒujī",
+   "pinyinNumeric": "shou3 ji1",
+   "topic": "cong-viec",
+   "vi": "điện thoại di động",
+   "example": {
+    "zh": "这是我的手机号。",
+    "pinyin": "Zhè shì wǒ de shǒujī hào.",
+    "vi": "Đây là số di động của tôi."
+   },
+   "note": null,
+   "audio": false
+  },
+  {
+   "id": "hsk1-255",
+   "hanzi": "电脑",
+   "pinyin": "diànnǎo",
+   "pinyinNumeric": "dian4 nao3",
+   "topic": "cong-viec",
+   "vi": "máy tính",
+   "example": {
+    "zh": "我用电脑工作。",
+    "pinyin": "Wǒ yòng diànnǎo gōngzuò.",
+    "vi": "Tôi làm việc bằng máy tính."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-239",
+   "hanzi": "忙",
+   "pinyin": "máng",
+   "pinyinNumeric": "mang2",
+   "topic": "cong-viec",
+   "vi": "bận",
+   "example": {
+    "zh": "你工作忙吗？",
+    "pinyin": "Nǐ gōngzuò máng ma?",
+    "vi": "Công việc của anh có bận không?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-170",
+   "hanzi": "认识",
+   "pinyin": "rènshi",
+   "pinyinNumeric": "ren4 shi5",
+   "topic": "cong-viec",
+   "vi": "quen biết",
+   "example": {
+    "zh": "认识你很高兴。",
+    "pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "vi": "Rất vui được làm quen với anh."
+   },
+   "note": "Câu xã giao khi gặp lần đầu",
+   "audio": true,
+   "notePy": "Câu xã giao khi gặp lần đầu"
+  },
+  {
+   "id": "hsk1-224",
+   "hanzi": "介绍",
+   "pinyin": "jièshào",
+   "pinyinNumeric": "jie4 shao4",
+   "topic": "cong-viec",
+   "vi": "giới thiệu",
+   "example": {
+    "zh": "我来介绍一下。",
+    "pinyin": "Wǒ lái jièshào yíxià.",
+    "vi": "Để tôi giới thiệu một chút."
+   },
+   "note": "Câu mở đầu khi giới thiệu người hoặc công ty",
+   "audio": true,
+   "notePy": "Câu mở đầu khi giới thiệu người hoặc công ty"
+  },
+  {
+   "id": "hsk1-215",
+   "hanzi": "中国",
+   "pinyin": "Zhōngguó",
+   "pinyinNumeric": "Zhong1 guo2",
+   "topic": "cong-viec",
+   "vi": "Trung Quốc",
+   "example": {
+    "zh": "我想去中国工作。",
+    "pinyin": "Wǒ xiǎng qù Zhōngguó gōngzuò.",
+    "vi": "Tôi muốn sang Trung Quốc làm việc."
+   },
+   "note": null,
+   "audio": false
+  },
+  {
+   "id": "hsk1-480",
+   "hanzi": "汉语",
+   "pinyin": "Hànyǔ",
+   "pinyinNumeric": "Han4 yu3",
+   "topic": "cong-viec",
+   "vi": "tiếng Trung, tiếng Hán",
+   "example": {
+    "zh": "我在学习汉语。",
+    "pinyin": "Wǒ zài xuéxí Hànyǔ.",
+    "vi": "Tôi đang học tiếng Trung."
+   },
+   "note": "中文 cũng là tiếng Trung, hay gặp trong văn viết",
+   "audio": true,
+   "notePy": "Zhōngwén cũng là tiếng Trung, hay gặp trong văn viết"
+  },
+  {
+   "id": "hsk1-227",
+   "hanzi": "学习",
+   "pinyin": "xuéxí",
+   "pinyinNumeric": "xue2 xi2",
+   "topic": "cong-viec",
+   "vi": "học, học tập",
+   "example": {
+    "zh": "我每天学习三十分钟。",
+    "pinyin": "Wǒ měitiān xuéxí sānshí fēnzhōng.",
+    "vi": "Mỗi ngày tôi học 30 phút."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-008",
+   "hanzi": "有",
+   "pinyin": "yǒu",
+   "pinyinNumeric": "you3",
+   "topic": "dong-tu",
+   "vi": "có",
+   "example": {
+    "zh": "我有一个问题。",
+    "pinyin": "Wǒ yǒu yí ge wèntí.",
+    "vi": "Tôi có một câu hỏi."
+   },
+   "note": "Phủ định là 没有, không nói 不有",
+   "audio": true,
+   "notePy": "Phủ định là méiyǒu, không nói bù yǒu"
+  },
+  {
+   "id": "hsk1-006",
+   "hanzi": "在",
+   "pinyin": "zài",
+   "pinyinNumeric": "zai4",
+   "topic": "dong-tu",
+   "vi": "ở; đang",
+   "example": {
+    "zh": "王先生在吗？",
+    "pinyin": "Wáng xiānsheng zài ma?",
+    "vi": "Ông Vương có ở đó không?"
+   },
+   "note": "Câu hay dùng khi gọi điện",
+   "audio": true,
+   "notePy": "Câu hay dùng khi gọi điện"
+  },
+  {
+   "id": "hsk1-029",
+   "hanzi": "去",
+   "pinyin": "qù",
+   "pinyinNumeric": "qu4",
+   "topic": "dong-tu",
+   "vi": "đi",
+   "example": {
+    "zh": "我们去吃饭吧。",
+    "pinyin": "Wǒmen qù chīfàn ba.",
+    "vi": "Chúng ta đi ăn cơm nhé."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-026",
+   "hanzi": "来",
+   "pinyin": "lái",
+   "pinyinNumeric": "lai2",
+   "topic": "dong-tu",
+   "vi": "đến",
+   "example": {
+    "zh": "欢迎来越南！",
+    "pinyin": "Huānyíng lái Yuènán!",
+    "vi": "Chào mừng đến Việt Nam!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-017",
+   "hanzi": "要",
+   "pinyin": "yào",
+   "pinyinNumeric": "yao4",
+   "topic": "dong-tu",
+   "vi": "muốn; cần; sẽ",
+   "example": {
+    "zh": "我要一杯咖啡。",
+    "pinyin": "Wǒ yào yì bēi kāfēi.",
+    "vi": "Cho tôi một cốc cà phê."
+   },
+   "note": "Khi gọi món: 我要… = cho tôi…",
+   "audio": true,
+   "notePy": "Khi gọi món: wǒ yào … = cho tôi…"
+  },
+  {
+   "id": "hsk1-032",
+   "hanzi": "想",
+   "pinyin": "xiǎng",
+   "pinyinNumeric": "xiang3",
+   "topic": "dong-tu",
+   "vi": "muốn; nghĩ; nhớ",
+   "example": {
+    "zh": "我想喝茶。",
+    "pinyin": "Wǒ xiǎng hē chá.",
+    "vi": "Tôi muốn uống trà."
+   },
+   "note": "想 nhẹ nhàng, lịch sự hơn 要",
+   "audio": true,
+   "notePy": "xiǎng nhẹ nhàng, lịch sự hơn yào"
+  },
+  {
+   "id": "hsk1-038",
+   "hanzi": "看",
+   "pinyin": "kàn",
+   "pinyinNumeric": "kan4",
+   "topic": "dong-tu",
+   "vi": "xem, nhìn",
+   "example": {
+    "zh": "请看这个。",
+    "pinyin": "Qǐng kàn zhège.",
+    "vi": "Mời anh xem cái này."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-105",
+   "hanzi": "听",
+   "pinyin": "tīng",
+   "pinyinNumeric": "ting1",
+   "topic": "dong-tu",
+   "vi": "nghe",
+   "example": {
+    "zh": "我听不懂。",
+    "pinyin": "Wǒ tīng bu dǒng.",
+    "vi": "Tôi nghe không hiểu."
+   },
+   "note": "Câu cứu cánh cho người mới học",
+   "audio": true,
+   "notePy": "Câu cứu cánh cho người mới học"
+  },
+  {
+   "id": "hsk1-015",
+   "hanzi": "说",
+   "pinyin": "shuō",
+   "pinyinNumeric": "shuo1",
+   "topic": "dong-tu",
+   "vi": "nói",
+   "example": {
+    "zh": "请说慢一点儿。",
+    "pinyin": "Qǐng shuō màn yìdiǎnr.",
+    "vi": "Xin nói chậm một chút."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-039",
+   "hanzi": "做",
+   "pinyin": "zuò",
+   "pinyinNumeric": "zuo4",
+   "topic": "dong-tu",
+   "vi": "làm",
+   "example": {
+    "zh": "你做什么工作？",
+    "pinyin": "Nǐ zuò shénme gōngzuò?",
+    "vi": "Anh làm nghề gì?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-082",
+   "hanzi": "吃",
+   "pinyin": "chī",
+   "pinyinNumeric": "chi1",
+   "topic": "dong-tu",
+   "vi": "ăn",
+   "example": {
+    "zh": "你吃饭了吗？",
+    "pinyin": "Nǐ chī fàn le ma?",
+    "vi": "Anh ăn cơm chưa?"
+   },
+   "note": "Cũng là một câu chào thân mật",
+   "audio": true,
+   "notePy": "Cũng là một câu chào thân mật"
+  },
+  {
+   "id": "hsk1-161",
+   "hanzi": "喝",
+   "pinyin": "hē",
+   "pinyinNumeric": "he1",
+   "topic": "dong-tu",
+   "vi": "uống",
+   "example": {
+    "zh": "您喝茶还是喝咖啡？",
+    "pinyin": "Nín hē chá háishi hē kāfēi?",
+    "vi": "Anh uống trà hay cà phê?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-119",
+   "hanzi": "买",
+   "pinyin": "mǎi",
+   "pinyinNumeric": "mai3",
+   "topic": "dong-tu",
+   "vi": "mua",
+   "example": {
+    "zh": "我想买这个。",
+    "pinyin": "Wǒ xiǎng mǎi zhège.",
+    "vi": "Tôi muốn mua cái này."
+   },
+   "note": "Phân biệt với 卖 mài (bán)",
+   "audio": true,
+   "notePy": "Phân biệt với mài mài (bán)"
+  },
+  {
+   "id": "hsk1-066",
+   "hanzi": "知道",
+   "pinyin": "zhīdào",
+   "pinyinNumeric": "zhi1 dao4",
+   "topic": "dong-tu",
+   "vi": "biết",
+   "example": {
+    "zh": "我不知道。",
+    "pinyin": "Wǒ bù zhīdào.",
+    "vi": "Tôi không biết."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-007",
+   "hanzi": "不",
+   "pinyin": "bù",
+   "pinyinNumeric": "bu4",
+   "topic": "hu-tu",
+   "vi": "không",
+   "example": {
+    "zh": "我不忙。",
+    "pinyin": "Wǒ bù máng.",
+    "vi": "Tôi không bận."
+   },
+   "note": "Trước thanh 4 đọc thành bú: 不是 bú shì",
+   "audio": true,
+   "notePy": "Trước thanh 4 đọc thành bú: bú shì bú shì"
+  },
+  {
+   "id": "hsk1-044",
+   "hanzi": "没",
+   "pinyin": "méi",
+   "pinyinNumeric": "mei2",
+   "topic": "hu-tu",
+   "vi": "không, chưa (có)",
+   "example": {
+    "zh": "我没去。",
+    "pinyin": "Wǒ méi qù.",
+    "vi": "Tôi đã không đi / chưa đi."
+   },
+   "note": "没 phủ định quá khứ và 有; 不 phủ định hiện tại, tương lai",
+   "audio": true,
+   "notePy": "méi phủ định quá khứ và yǒu; bù phủ định hiện tại, tương lai"
+  },
+  {
+   "id": "hsk1-034",
+   "hanzi": "没有",
+   "pinyin": "méiyǒu",
+   "pinyinNumeric": "mei2 you3",
+   "topic": "hu-tu",
+   "vi": "không có; chưa",
+   "example": {
+    "zh": "我没有时间。",
+    "pinyin": "Wǒ méiyǒu shíjiān.",
+    "vi": "Tôi không có thời gian."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-027",
+   "hanzi": "很",
+   "pinyin": "hěn",
+   "pinyinNumeric": "hen3",
+   "topic": "hu-tu",
+   "vi": "rất",
+   "example": {
+    "zh": "很好！",
+    "pinyin": "Hěn hǎo!",
+    "vi": "Rất tốt!"
+   },
+   "note": "Thường đặt trước tính từ dù không nhấn mạnh: 我很忙",
+   "audio": true,
+   "notePy": "Thường đặt trước tính từ dù không nhấn mạnh: wǒ hěn máng"
+  },
+  {
+   "id": "hsk1-021",
+   "hanzi": "也",
+   "pinyin": "yě",
+   "pinyinNumeric": "ye3",
+   "topic": "hu-tu",
+   "vi": "cũng",
+   "example": {
+    "zh": "我也是越南人。",
+    "pinyin": "Wǒ yě shì Yuènán rén.",
+    "vi": "Tôi cũng là người Việt Nam."
+   },
+   "note": "也 đứng trước động từ, không đứng đầu câu",
+   "audio": true,
+   "notePy": "yě đứng trước động từ, không đứng đầu câu"
+  },
+  {
+   "id": "hsk1-022",
+   "hanzi": "都",
+   "pinyin": "dōu",
+   "pinyinNumeric": "dou1",
+   "topic": "hu-tu",
+   "vi": "đều",
+   "example": {
+    "zh": "我们都很忙。",
+    "pinyin": "Wǒmen dōu hěn máng.",
+    "vi": "Chúng tôi đều rất bận."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-001",
+   "hanzi": "的",
+   "pinyin": "de",
+   "pinyinNumeric": "de5",
+   "topic": "hu-tu",
+   "vi": "của; (trợ từ)",
+   "example": {
+    "zh": "这是我的名片。",
+    "pinyin": "Zhè shì wǒ de míngpiàn.",
+    "vi": "Đây là danh thiếp của tôi."
+   },
+   "note": "名片 = danh thiếp, rất cần khi gặp đối tác",
+   "audio": true,
+   "notePy": "míngpiàn = danh thiếp, rất cần khi gặp đối tác"
+  },
+  {
+   "id": "hsk1-002",
+   "hanzi": "了",
+   "pinyin": "le",
+   "pinyinNumeric": "le5",
+   "topic": "hu-tu",
+   "vi": "(trợ từ) đã, rồi",
+   "example": {
+    "zh": "我到了。",
+    "pinyin": "Wǒ dào le.",
+    "vi": "Tôi đến rồi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-013",
+   "hanzi": "和",
+   "pinyin": "hé",
+   "pinyinNumeric": "he2",
+   "topic": "hu-tu",
+   "vi": "và, với",
+   "example": {
+    "zh": "我和他是朋友。",
+    "pinyin": "Wǒ hé tā shì péngyou.",
+    "vi": "Tôi và anh ấy là bạn."
+   },
+   "note": "Chỉ nối danh từ, không nối hai mệnh đề",
+   "audio": true,
+   "notePy": "Chỉ nối danh từ, không nối hai mệnh đề"
+  },
+  {
+   "id": "hsk1-010",
+   "hanzi": "这",
+   "pinyin": "zhè",
+   "pinyinNumeric": "zhe4",
+   "topic": "hu-tu",
+   "vi": "này, đây",
+   "example": {
+    "zh": "这是我们的产品。",
+    "pinyin": "Zhè shì wǒmen de chǎnpǐn.",
+    "vi": "Đây là sản phẩm của chúng tôi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-036",
+   "hanzi": "那",
+   "pinyin": "nà",
+   "pinyinNumeric": "na4",
+   "topic": "hu-tu",
+   "vi": "kia, đó",
+   "example": {
+    "zh": "那是什么？",
+    "pinyin": "Nà shì shénme?",
+    "vi": "Kia là gì?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-Yue4nan2",
+   "hanzi": "越南",
+   "pinyin": "Yuènán",
+   "pinyinNumeric": "Yue4 nan2",
+   "topic": "c1-02",
+   "vi": "Việt Nam",
+   "example": {
+    "zh": "我是越南人。",
+    "pinyin": "Wǒ shì Yuènán rén.",
+    "vi": "Tôi là người Việt Nam."
+   },
+   "note": "Quốc tịch = tên nước + 人: 越南人 (người Việt Nam), 中国人 (người Trung Quốc)",
+   "audio": false,
+   "notePy": "Quốc tịch = tên nước + rén: Yuènán rén (người Việt Nam), Zhōngguó rén (người Trung Quốc)"
+  },
+  {
+   "id": "hsk1-248",
+   "hanzi": "高兴",
+   "pinyin": "gāoxìng",
+   "pinyinNumeric": "gao1 xing4",
+   "topic": "c1-03",
+   "vi": "vui, vui mừng",
+   "example": {
+    "zh": "认识你很高兴。",
+    "pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "vi": "Rất vui được làm quen với anh/chị."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-tong2shi4",
+   "hanzi": "同事",
+   "pinyin": "tóngshì",
+   "pinyinNumeric": "tong2 shi4",
+   "topic": "c1-03",
+   "vi": "đồng nghiệp",
+   "example": {
+    "zh": "他是我的同事。",
+    "pinyin": "Tā shì wǒ de tóngshì.",
+    "vi": "Anh ấy là đồng nghiệp của tôi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-gong1si1",
+   "hanzi": "公司",
+   "pinyin": "gōngsī",
+   "pinyinNumeric": "gong1 si1",
+   "topic": "c1-03",
+   "vi": "công ty",
+   "example": {
+    "zh": "我们公司很好。",
+    "pinyin": "Wǒmen gōngsī hěn hǎo.",
+    "vi": "Công ty chúng tôi rất tốt."
+   },
+   "note": "Nói công ty của mình thường bỏ 的: 我们公司",
+   "audio": true,
+   "notePy": "Nói công ty của mình thường bỏ de: wǒmen gōngsī"
+  },
+  {
+   "id": "hsk1-012",
+   "hanzi": "个",
+   "pinyin": "gè",
+   "pinyinNumeric": "ge4",
+   "topic": "c1-04",
+   "vi": "cái, chiếc, người (lượng từ chung)",
+   "example": {
+    "zh": "我有两个同事。",
+    "pinyin": "Wǒ yǒu liǎng ge tóngshì.",
+    "vi": "Tôi có hai đồng nghiệp."
+   },
+   "note": "Lượng từ thông dụng nhất; trong câu thường đọc nhẹ: ge",
+   "audio": true,
+   "notePy": "Lượng từ thông dụng nhất; trong câu thường đọc nhẹ: ge"
+  },
+  {
+   "id": "hsk1-237",
+   "hanzi": "今年",
+   "pinyin": "jīnnián",
+   "pinyinNumeric": "jin1 nian2",
+   "topic": "c1-06",
+   "vi": "năm nay",
+   "example": {
+    "zh": "今年是二零二六年。",
+    "pinyin": "Jīnnián shì èr líng èr liù nián.",
+    "vi": "Năm nay là năm 2026."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-113",
+   "hanzi": "钱",
+   "pinyin": "qián",
+   "pinyinNumeric": "qian2",
+   "topic": "c1-07",
+   "vi": "tiền",
+   "example": {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "vi": "Cái này bao nhiêu tiền?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-175",
+   "hanzi": "块",
+   "pinyin": "kuài",
+   "pinyinNumeric": "kuai4",
+   "topic": "c1-07",
+   "vi": "đồng, tệ (đơn vị tiền khi nói)",
+   "example": {
+    "zh": "这个三十块。",
+    "pinyin": "Zhège sānshí kuài.",
+    "vi": "Cái này 30 tệ."
+   },
+   "note": "Khi nói dùng 块; khi viết, niêm yết giá dùng 元",
+   "audio": true,
+   "notePy": "Khi nói dùng kuài; khi viết, niêm yết giá dùng yuán"
+  },
+  {
+   "id": "hsk1-217",
+   "hanzi": "元",
+   "pinyin": "yuán",
+   "pinyinNumeric": "yuan2",
+   "topic": "c1-07",
+   "vi": "đồng, tệ (đơn vị tiền khi viết)",
+   "example": {
+    "zh": "一百元",
+    "pinyin": "yìbǎi yuán",
+    "vi": "100 tệ"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-349",
+   "hanzi": "贵",
+   "pinyin": "guì",
+   "pinyinNumeric": "gui4",
+   "topic": "c1-07",
+   "vi": "đắt",
+   "example": {
+    "zh": "这个很贵。",
+    "pinyin": "Zhège hěn guì.",
+    "vi": "Cái này rất đắt."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-060",
+   "hanzi": "太",
+   "pinyin": "tài",
+   "pinyinNumeric": "tai4",
+   "topic": "c1-07",
+   "vi": "quá",
+   "example": {
+    "zh": "太贵了！",
+    "pinyin": "Tài guì le!",
+    "vi": "Đắt quá!"
+   },
+   "note": "Thường đi thành cặp: 太 + tính từ + 了",
+   "audio": true,
+   "notePy": "Thường đi thành cặp: tài + tính từ + le"
+  },
+  {
+   "id": "hsk1-067",
+   "hanzi": "时候",
+   "pinyin": "shíhou",
+   "pinyinNumeric": "shi2 hou5",
+   "topic": "c1-08",
+   "vi": "lúc, khi",
+   "example": {
+    "zh": "你什么时候有时间？",
+    "pinyin": "Nǐ shénme shíhou yǒu shíjiān?",
+    "vi": "Khi nào anh/chị có thời gian?"
+   },
+   "note": "什么时候 = khi nào",
+   "audio": true,
+   "notePy": "shénme shíhou = khi nào"
+  },
+  {
+   "id": "hsk1-097",
+   "hanzi": "一起",
+   "pinyin": "yìqǐ",
+   "pinyinNumeric": "yi1 qi3",
+   "topic": "c1-08",
+   "vi": "cùng nhau",
+   "example": {
+    "zh": "我们一起去吧。",
+    "pinyin": "Wǒmen yìqǐ qù ba.",
+    "vi": "Chúng ta cùng đi nhé."
+   },
+   "note": "Đứng trước động từ",
+   "audio": true,
+   "notePy": "Đứng trước động từ"
+  },
+  {
+   "id": "hsk1-041",
+   "hanzi": "吧",
+   "pinyin": "ba",
+   "pinyinNumeric": "ba5",
+   "topic": "c1-08",
+   "vi": "nhé, đi (đề nghị nhẹ nhàng)",
+   "example": {
+    "zh": "我们明天见吧。",
+    "pinyin": "Wǒmen míngtiān jiàn ba.",
+    "vi": "Mai chúng ta gặp nhé."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-100",
+   "hanzi": "见",
+   "pinyin": "jiàn",
+   "pinyinNumeric": "jian4",
+   "topic": "c1-08",
+   "vi": "gặp",
+   "example": {
+    "zh": "明天见！",
+    "pinyin": "Míngtiān jiàn!",
+    "vi": "Hẹn gặp ngày mai!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-337",
+   "hanzi": "茶",
+   "pinyin": "chá",
+   "pinyinNumeric": "cha2",
+   "topic": "c1-09",
+   "vi": "trà",
+   "example": {
+    "zh": "请喝茶。",
+    "pinyin": "Qǐng hē chá.",
+    "vi": "Mời anh/chị uống trà."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-211",
+   "hanzi": "杯",
+   "pinyin": "bēi",
+   "pinyinNumeric": "bei1",
+   "topic": "c1-09",
+   "vi": "cốc, ly, tách (lượng từ)",
+   "example": {
+    "zh": "一杯茶",
+    "pinyin": "yì bēi chá",
+    "vi": "một tách trà"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-140",
+   "hanzi": "水",
+   "pinyin": "shuǐ",
+   "pinyinNumeric": "shui3",
+   "topic": "c1-09",
+   "vi": "nước",
+   "example": {
+    "zh": "我要一杯水。",
+    "pinyin": "Wǒ yào yì bēi shuǐ.",
+    "vi": "Cho tôi một cốc nước."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-312",
+   "hanzi": "饭",
+   "pinyin": "fàn",
+   "pinyinNumeric": "fan4",
+   "topic": "c1-09",
+   "vi": "cơm; bữa ăn",
+   "example": {
+    "zh": "我请你吃饭。",
+    "pinyin": "Wǒ qǐng nǐ chīfàn.",
+    "vi": "Tôi mời anh/chị ăn cơm."
+   },
+   "note": "吃饭 = ăn cơm, đi ăn (không chỉ ăn cơm trắng)",
+   "audio": true,
+   "notePy": "chīfàn = ăn cơm, đi ăn (không chỉ ăn cơm trắng)"
+  },
+  {
+   "id": "hsk1-301",
+   "hanzi": "菜",
+   "pinyin": "cài",
+   "pinyinNumeric": "cai4",
+   "topic": "c1-09",
+   "vi": "món ăn; rau",
+   "example": {
+    "zh": "我喜欢中国菜。",
+    "pinyin": "Wǒ xǐhuan Zhōngguó cài.",
+    "vi": "Tôi thích món ăn Trung Quốc."
+   },
+   "note": "Món ăn nước nào = tên nước + 菜: 中国菜, 越南菜",
+   "audio": true,
+   "notePy": "Món ăn nước nào = tên nước + cài: Zhōngguó cài, Yuènán cài"
+  },
+  {
+   "id": "hsk1-081",
+   "hanzi": "喜欢",
+   "pinyin": "xǐhuan",
+   "pinyinNumeric": "xi3 huan5",
+   "topic": "c1-09",
+   "vi": "thích",
+   "example": {
+    "zh": "我喜欢喝茶。",
+    "pinyin": "Wǒ xǐhuan hē chá.",
+    "vi": "Tôi thích uống trà."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-364",
+   "hanzi": "好吃",
+   "pinyin": "hǎochī",
+   "pinyinNumeric": "hao3 chi1",
+   "topic": "c1-09",
+   "vi": "ngon (đồ ăn)",
+   "example": {
+    "zh": "这个菜很好吃。",
+    "pinyin": "Zhège cài hěn hǎochī.",
+    "vi": "Món này rất ngon."
+   },
+   "note": "Đồ uống ngon thì nói 好喝 (hǎohē)",
+   "audio": true,
+   "notePy": "Đồ uống ngon thì nói hǎo hē (hǎohē)"
+  },
+  {
+   "id": "x-xing4",
+   "hanzi": "姓",
+   "pinyin": "xìng",
+   "pinyinNumeric": "xing4",
+   "topic": "c2-01",
+   "vi": "họ; mang họ",
+   "example": {
+    "zh": "我姓阮。",
+    "pinyin": "Wǒ xìng Ruǎn.",
+    "vi": "Tôi họ Nguyễn."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-gui4xing4",
+   "hanzi": "贵姓",
+   "pinyin": "guìxìng",
+   "pinyinNumeric": "gui4 xing4",
+   "topic": "c2-01",
+   "vi": "quý danh, họ (hỏi lịch sự)",
+   "example": {
+    "zh": "您贵姓？",
+    "pinyin": "Nín guìxìng?",
+    "vi": "Xin hỏi anh/chị họ gì?"
+   },
+   "note": "Chỉ dùng để hỏi người khác, không bao giờ nói 我贵姓",
+   "audio": true,
+   "notePy": "Chỉ dùng để hỏi người khác, không bao giờ nói wǒ guìxìng"
+  },
+  {
+   "id": "x-ming2pian4",
+   "hanzi": "名片",
+   "pinyin": "míngpiàn",
+   "pinyinNumeric": "ming2 pian4",
+   "topic": "c2-01",
+   "vi": "danh thiếp",
+   "example": {
+    "zh": "这是我的名片。",
+    "pinyin": "Zhè shì wǒ de míngpiàn.",
+    "vi": "Đây là danh thiếp của tôi."
+   },
+   "note": null,
+   "audio": false
+  },
+  {
+   "id": "hsk1-033",
+   "hanzi": "给",
+   "pinyin": "gěi",
+   "pinyinNumeric": "gei3",
+   "topic": "c2-01",
+   "vi": "đưa, cho; cho (ai)",
+   "example": {
+    "zh": "这是我的名片，给您。",
+    "pinyin": "Zhè shì wǒ de míngpiàn, gěi nín.",
+    "vi": "Đây là danh thiếp của tôi, xin gửi anh."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-jing1li3",
+   "hanzi": "经理",
+   "pinyin": "jīnglǐ",
+   "pinyinNumeric": "jing1 li3",
+   "topic": "c2-01",
+   "vi": "giám đốc, trưởng phòng (manager)",
+   "example": {
+    "zh": "王经理，您好！",
+    "pinyin": "Wáng jīnglǐ, nín hǎo!",
+    "vi": "Chào giám đốc Vương!"
+   },
+   "note": "Gọi đối tác bằng họ + chức vụ: 王经理, 李经理",
+   "audio": true,
+   "notePy": "Gọi đối tác bằng họ + chức vụ: Wáng jīnglǐ, lǐ jīnglǐ"
+  },
+  {
+   "id": "x-shi4chang3",
+   "hanzi": "市场",
+   "pinyin": "shìchǎng",
+   "pinyinNumeric": "shi4 chang3",
+   "topic": "c2-01",
+   "vi": "thị trường; marketing",
+   "example": {
+    "zh": "我负责市场。",
+    "pinyin": "Wǒ fùzé shìchǎng.",
+    "vi": "Tôi phụ trách marketing."
+   },
+   "note": "市场部 = phòng marketing, 市场部经理 = trưởng phòng marketing",
+   "audio": true,
+   "notePy": "shìchǎngbù = phòng marketing, shìchǎngbù jīnglǐ = trưởng phòng marketing"
+  },
+  {
+   "id": "x-bu4men2",
+   "hanzi": "部门",
+   "pinyin": "bùmén",
+   "pinyinNumeric": "bu4 men2",
+   "topic": "c2-01",
+   "vi": "bộ phận, phòng ban",
+   "example": {
+    "zh": "您在哪个部门工作？",
+    "pinyin": "Nín zài nǎge bùmén gōngzuò?",
+    "vi": "Anh/chị làm ở bộ phận nào?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-fu4ze2",
+   "hanzi": "负责",
+   "pinyin": "fùzé",
+   "pinyinNumeric": "fu4 ze2",
+   "topic": "c2-01",
+   "vi": "phụ trách, chịu trách nhiệm",
+   "example": {
+    "zh": "他负责这个部门。",
+    "pinyin": "Tā fùzé zhège bùmén.",
+    "vi": "Anh ấy phụ trách bộ phận này."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-yi1xia4",
+   "hanzi": "一下",
+   "pinyin": "yíxià",
+   "pinyinNumeric": "yi1 xia4",
+   "topic": "c2-01",
+   "vi": "một chút, một lát (làm nhẹ động từ)",
+   "example": {
+    "zh": "我介绍一下。",
+    "pinyin": "Wǒ jièshào yíxià.",
+    "vi": "Để tôi giới thiệu một chút."
+   },
+   "note": "Động từ + 一下: làm câu nhẹ nhàng, lịch sự hơn",
+   "audio": true,
+   "notePy": "Động từ + yíxià: làm câu nhẹ nhàng, lịch sự hơn"
+  },
+  {
+   "id": "x-hui4yi4",
+   "hanzi": "会议",
+   "pinyin": "huìyì",
+   "pinyinNumeric": "hui4 yi4",
+   "topic": "c2-02",
+   "vi": "cuộc họp, hội nghị",
+   "example": {
+    "zh": "会议几点开始？",
+    "pinyin": "Huìyì jǐ diǎn kāishǐ?",
+    "vi": "Cuộc họp mấy giờ bắt đầu?"
+   },
+   "note": "会议 là danh từ (cuộc họp); 开会 là động từ (họp)",
+   "audio": true,
+   "notePy": "huìyì là danh từ (cuộc họp); kāihuì là động từ (họp)"
+  },
+  {
+   "id": "x-an1pai2",
+   "hanzi": "安排",
+   "pinyin": "ānpái",
+   "pinyinNumeric": "an1 pai2",
+   "topic": "c2-02",
+   "vi": "sắp xếp, bố trí",
+   "example": {
+    "zh": "我来安排。",
+    "pinyin": "Wǒ lái ānpái.",
+    "vi": "Để tôi sắp xếp."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-047",
+   "hanzi": "下",
+   "pinyin": "xià",
+   "pinyinNumeric": "xia4",
+   "topic": "c2-02",
+   "vi": "dưới; sau, tới (xià ge xīngqī: tuần sau)",
+   "example": {
+    "zh": "下个星期我们开会。",
+    "pinyin": "Xià ge xīngqī wǒmen kāihuì.",
+    "vi": "Tuần sau chúng ta họp."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-ke3yi3",
+   "hanzi": "可以",
+   "pinyin": "kěyǐ",
+   "pinyinNumeric": "ke3 yi3",
+   "topic": "c2-02",
+   "vi": "có thể, được",
+   "example": {
+    "zh": "星期三上午可以吗？",
+    "pinyin": "Xīngqīsān shàngwǔ kěyǐ ma?",
+    "vi": "Sáng thứ Tư được không?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-fang1bian4",
+   "hanzi": "方便",
+   "pinyin": "fāngbiàn",
+   "pinyinNumeric": "fang1 bian4",
+   "topic": "c2-02",
+   "vi": "tiện, thuận tiện",
+   "example": {
+    "zh": "您什么时候方便？",
+    "pinyin": "Nín shénme shíhou fāngbiàn?",
+    "vi": "Khi nào anh/chị tiện?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-zen3me5yang4",
+   "hanzi": "怎么样",
+   "pinyin": "zěnmeyàng",
+   "pinyinNumeric": "zen3 me5 yang4",
+   "topic": "c2-02",
+   "vi": "thế nào, ra sao",
+   "example": {
+    "zh": "星期四怎么样？",
+    "pinyin": "Xīngqīsì zěnmeyàng?",
+    "vi": "Thứ Năm thì thế nào?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-can1jia1",
+   "hanzi": "参加",
+   "pinyin": "cānjiā",
+   "pinyinNumeric": "can1 jia1",
+   "topic": "c2-02",
+   "vi": "tham gia, dự",
+   "example": {
+    "zh": "谁参加会议？",
+    "pinyin": "Shéi cānjiā huìyì?",
+    "vi": "Ai dự họp?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-kai1shi3",
+   "hanzi": "开始",
+   "pinyin": "kāishǐ",
+   "pinyinNumeric": "kai1 shi3",
+   "topic": "c2-02",
+   "vi": "bắt đầu",
+   "example": {
+    "zh": "会议九点开始。",
+    "pinyin": "Huìyì jiǔ diǎn kāishǐ.",
+    "vi": "Cuộc họp bắt đầu lúc 9 giờ."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-gai3",
+   "hanzi": "改",
+   "pinyin": "gǎi",
+   "pinyinNumeric": "gai3",
+   "topic": "c2-02",
+   "vi": "sửa, đổi",
+   "example": {
+    "zh": "可以改时间吗？",
+    "pinyin": "Kěyǐ gǎi shíjiān ma?",
+    "vi": "Có thể đổi giờ được không?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-wen4ti2",
+   "hanzi": "问题",
+   "pinyin": "wèntí",
+   "pinyinNumeric": "wen4 ti2",
+   "topic": "c2-02",
+   "vi": "vấn đề; câu hỏi",
+   "example": {
+    "zh": "没问题！",
+    "pinyin": "Méi wèntí!",
+    "vi": "Không vấn đề gì! / Được thôi!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-wei2",
+   "hanzi": "喂",
+   "pinyin": "wéi",
+   "pinyinNumeric": "wei2",
+   "topic": "c2-03",
+   "vi": "a lô",
+   "example": {
+    "zh": "喂，您好！",
+    "pinyin": "Wéi, nín hǎo!",
+    "vi": "A lô, xin chào!"
+   },
+   "note": "Từ điển ghi wèi, nhưng khi nghe máy hầu như ai cũng đọc thanh 2: wéi",
+   "audio": true,
+   "notePy": "Từ điển ghi wèi, nhưng khi nghe máy hầu như ai cũng đọc thanh 2: wéi"
+  },
+  {
+   "id": "hsk1-085",
+   "hanzi": "找",
+   "pinyin": "zhǎo",
+   "pinyinNumeric": "zhao3",
+   "topic": "c2-03",
+   "vi": "tìm; muốn gặp (ai)",
+   "example": {
+    "zh": "我找王经理。",
+    "pinyin": "Wǒ zhǎo Wáng jīnglǐ.",
+    "vi": "Tôi muốn gặp giám đốc Vương."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-wei4",
+   "hanzi": "位",
+   "pinyin": "wèi",
+   "pinyinNumeric": "wei4",
+   "topic": "c2-03",
+   "vi": "vị (lượng từ chỉ người, kính trọng)",
+   "example": {
+    "zh": "您是哪位？",
+    "pinyin": "Nín shì nǎ wèi?",
+    "vi": "Xin hỏi ai đang gọi ạ?"
+   },
+   "note": "位 lịch sự hơn 个: 一位经理, 哪位",
+   "audio": true,
+   "notePy": "wèi lịch sự hơn ge: yí wèi jīnglǐ, nǎ wèi"
+  },
+  {
+   "id": "hsk1-056",
+   "hanzi": "等",
+   "pinyin": "děng",
+   "pinyinNumeric": "deng3",
+   "topic": "c2-03",
+   "vi": "chờ, đợi",
+   "example": {
+    "zh": "请等一下。",
+    "pinyin": "Qǐng děng yíxià.",
+    "vi": "Xin chờ một chút."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-327",
+   "hanzi": "慢",
+   "pinyin": "màn",
+   "pinyinNumeric": "man4",
+   "topic": "c2-03",
+   "vi": "chậm",
+   "example": {
+    "zh": "请您说慢一点儿。",
+    "pinyin": "Qǐng nín shuō màn yìdiǎnr.",
+    "vi": "Xin anh/chị nói chậm một chút."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-452",
+   "hanzi": "一点儿",
+   "pinyin": "yìdiǎnr",
+   "pinyinNumeric": "yi1 dian3 r5",
+   "topic": "c2-03",
+   "vi": "một chút, một ít",
+   "example": {
+    "zh": "慢一点儿",
+    "pinyin": "màn yìdiǎnr",
+    "vi": "chậm một chút"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-062",
+   "hanzi": "再",
+   "pinyin": "zài",
+   "pinyinNumeric": "zai4",
+   "topic": "c2-03",
+   "vi": "lại, nữa (lần nữa)",
+   "example": {
+    "zh": "请您再说一遍。",
+    "pinyin": "Qǐng nín zài shuō yí biàn.",
+    "vi": "Xin anh/chị nói lại một lần nữa."
+   },
+   "note": "Chính là chữ 再 trong 再见 (gặp lại)",
+   "audio": true,
+   "notePy": "Chính là chữ zài trong zàijiàn (gặp lại)"
+  },
+  {
+   "id": "x-bian4",
+   "hanzi": "遍",
+   "pinyin": "biàn",
+   "pinyinNumeric": "bian4",
+   "topic": "c2-03",
+   "vi": "lần, lượt (làm trọn một lượt)",
+   "example": {
+    "zh": "再说一遍",
+    "pinyin": "zài shuō yí biàn",
+    "vi": "nói lại một lần"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-115",
+   "hanzi": "回",
+   "pinyin": "huí",
+   "pinyinNumeric": "hui2",
+   "topic": "c2-03",
+   "vi": "về; đáp lại (huí diànhuà: gọi lại)",
+   "example": {
+    "zh": "我下午给您回电话。",
+    "pinyin": "Wǒ xiàwǔ gěi nín huí diànhuà.",
+    "vi": "Chiều nay tôi sẽ gọi lại cho anh/chị."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-Wei1xin4",
+   "hanzi": "微信",
+   "pinyin": "Wēixìn",
+   "pinyinNumeric": "Wei1 xin4",
+   "topic": "c2-04",
+   "vi": "WeChat",
+   "example": {
+    "zh": "我可以加您微信吗？",
+    "pinyin": "Wǒ kěyǐ jiā nín Wēixìn ma?",
+    "vi": "Tôi có thể kết bạn WeChat với anh/chị không?"
+   },
+   "note": null,
+   "audio": false
+  },
+  {
+   "id": "x-jia1",
+   "hanzi": "加",
+   "pinyin": "jiā",
+   "pinyinNumeric": "jia1",
+   "topic": "c2-04",
+   "vi": "thêm, cộng; kết bạn (trên mạng)",
+   "example": {
+    "zh": "我加你微信吧。",
+    "pinyin": "Wǒ jiā nǐ Wēixìn ba.",
+    "vi": "Để tôi kết bạn WeChat với anh nhé."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-sao3",
+   "hanzi": "扫",
+   "pinyin": "sǎo",
+   "pinyinNumeric": "sao3",
+   "topic": "c2-04",
+   "vi": "quét (mã QR); quét dọn",
+   "example": {
+    "zh": "我扫您吧。",
+    "pinyin": "Wǒ sǎo nín ba.",
+    "vi": "Để tôi quét mã của anh/chị nhé."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-fa1",
+   "hanzi": "发",
+   "pinyin": "fā",
+   "pinyinNumeric": "fa1",
+   "topic": "c2-04",
+   "vi": "gửi (tin nhắn, tài liệu)",
+   "example": {
+    "zh": "我给您发了一个文件。",
+    "pinyin": "Wǒ gěi nín fāle yí ge wénjiàn.",
+    "vi": "Tôi đã gửi cho anh/chị một tài liệu."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-xiao1xi5",
+   "hanzi": "消息",
+   "pinyin": "xiāoxi",
+   "pinyinNumeric": "xiao1 xi5",
+   "topic": "c2-04",
+   "vi": "tin nhắn; tin tức",
+   "example": {
+    "zh": "我晚上给您发消息。",
+    "pinyin": "Wǒ wǎnshang gěi nín fā xiāoxi.",
+    "vi": "Tối nay tôi nhắn tin cho anh/chị."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-wen2jian4",
+   "hanzi": "文件",
+   "pinyin": "wénjiàn",
+   "pinyinNumeric": "wen2 jian4",
+   "topic": "c2-04",
+   "vi": "tài liệu, file",
+   "example": {
+    "zh": "这个文件很好。",
+    "pinyin": "Zhège wénjiàn hěn hǎo.",
+    "vi": "Tài liệu này rất tốt."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-yi3jing1",
+   "hanzi": "已经",
+   "pinyin": "yǐjīng",
+   "pinyinNumeric": "yi3 jing1",
+   "topic": "c2-04",
+   "vi": "đã (rồi)",
+   "example": {
+    "zh": "我已经发了。",
+    "pinyin": "Wǒ yǐjīng fā le.",
+    "vi": "Tôi gửi rồi."
+   },
+   "note": "Thường đi cặp với 了: 已经…了 = đã … rồi",
+   "audio": true,
+   "notePy": "Thường đi cặp với le: yǐjīng … le = đã … rồi"
+  },
+  {
+   "id": "x-shou1dao4",
+   "hanzi": "收到",
+   "pinyin": "shōudào",
+   "pinyinNumeric": "shou1 dao4",
+   "topic": "c2-04",
+   "vi": "nhận được",
+   "example": {
+    "zh": "收到了，谢谢！",
+    "pinyin": "Shōudào le, xièxie!",
+    "vi": "Nhận được rồi, cảm ơn!"
+   },
+   "note": null,
+   "audio": false
+  },
+  {
+   "id": "hsk1-236",
+   "hanzi": "马上",
+   "pinyin": "mǎshàng",
+   "pinyinNumeric": "ma3 shang4",
+   "topic": "c2-04",
+   "vi": "ngay, lập tức",
+   "example": {
+    "zh": "好的，我马上看。",
+    "pinyin": "Hǎo de, wǒ mǎshàng kàn.",
+    "vi": "Vâng, tôi xem ngay."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-huan1ying2",
+   "hanzi": "欢迎",
+   "pinyin": "huānyíng",
+   "pinyinNumeric": "huan1 ying2",
+   "topic": "c2-05",
+   "vi": "hoan nghênh, chào mừng",
+   "example": {
+    "zh": "欢迎来越南！",
+    "pinyin": "Huānyíng lái Yuènán!",
+    "vi": "Chào mừng đến Việt Nam!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-jie1",
+   "hanzi": "接",
+   "pinyin": "jiē",
+   "pinyinNumeric": "jie1",
+   "topic": "c2-05",
+   "vi": "đón (người)",
+   "example": {
+    "zh": "我去机场接您。",
+    "pinyin": "Wǒ qù jīchǎng jiē nín.",
+    "vi": "Tôi ra sân bay đón anh/chị."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-353",
+   "hanzi": "机场",
+   "pinyin": "jīchǎng",
+   "pinyinNumeric": "ji1 chang3",
+   "topic": "c2-05",
+   "vi": "sân bay",
+   "example": {
+    "zh": "我在机场。",
+    "pinyin": "Wǒ zài jīchǎng.",
+    "vi": "Tôi đang ở sân bay."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-321",
+   "hanzi": "路上",
+   "pinyin": "lùshang",
+   "pinyinNumeric": "lu4 shang5",
+   "topic": "c2-05",
+   "vi": "trên đường, dọc đường",
+   "example": {
+    "zh": "路上辛苦了！",
+    "pinyin": "Lùshang xīnkǔ le!",
+    "vi": "Anh/chị đi đường vất vả rồi!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-xin1ku3",
+   "hanzi": "辛苦",
+   "pinyin": "xīnkǔ",
+   "pinyinNumeric": "xin1 ku3",
+   "topic": "c2-05",
+   "vi": "vất vả",
+   "example": {
+    "zh": "你辛苦了！",
+    "pinyin": "Nǐ xīnkǔ le!",
+    "vi": "Anh/chị vất vả rồi! (cảm ơn)"
+   },
+   "note": "辛苦了 còn dùng để cảm ơn đồng nghiệp đã làm việc vất vả",
+   "audio": true,
+   "notePy": "xīnkǔ le còn dùng để cảm ơn đồng nghiệp đã làm việc vất vả"
+  },
+  {
+   "id": "hsk1-282",
+   "hanzi": "累",
+   "pinyin": "lèi",
+   "pinyinNumeric": "lei4",
+   "topic": "c2-05",
+   "vi": "mệt",
+   "example": {
+    "zh": "您累不累？",
+    "pinyin": "Nín lèi bu lèi?",
+    "vi": "Anh/chị có mệt không?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-043",
+   "hanzi": "过",
+   "pinyin": "guo",
+   "pinyinNumeric": "guo4",
+   "topic": "c2-05",
+   "vi": "đã từng (sau động từ)",
+   "example": {
+    "zh": "您来过越南吗？",
+    "pinyin": "Nín láiguo Yuènán ma?",
+    "vi": "Anh/chị đã từng đến Việt Nam chưa?"
+   },
+   "note": "Đứng sau động từ thì đọc nhẹ: guo. Đứng một mình là guò (đi qua)",
+   "audio": true,
+   "notePy": "Đứng sau động từ thì đọc nhẹ: guo. Đứng một mình là guò (đi qua)"
+  },
+  {
+   "id": "hsk1-064",
+   "hanzi": "次",
+   "pinyin": "cì",
+   "pinyinNumeric": "ci4",
+   "topic": "c2-05",
+   "vi": "lần (lượng từ)",
+   "example": {
+    "zh": "我来过两次。",
+    "pinyin": "Wǒ láiguo liǎng cì.",
+    "vi": "Tôi đã đến hai lần."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-di4yi1",
+   "hanzi": "第一",
+   "pinyin": "dì-yī",
+   "pinyinNumeric": "di4 yi1",
+   "topic": "c2-05",
+   "vi": "thứ nhất, đầu tiên",
+   "example": {
+    "zh": "这是我第一次来越南。",
+    "pinyin": "Zhè shì wǒ dì-yī cì lái Yuènán.",
+    "vi": "Đây là lần đầu tiên tôi đến Việt Nam."
+   },
+   "note": "第 + số = số thứ tự: 第一 (thứ nhất), 第二 (thứ hai)",
+   "audio": false,
+   "notePy": "dì + số = số thứ tự: dìyī (thứ nhất), dìèr (thứ hai)"
+  },
+  {
+   "id": "x-jiu3dian4",
+   "hanzi": "酒店",
+   "pinyin": "jiǔdiàn",
+   "pinyinNumeric": "jiu3 dian4",
+   "topic": "c2-05",
+   "vi": "khách sạn",
+   "example": {
+    "zh": "我送您去酒店。",
+    "pinyin": "Wǒ sòng nín qù jiǔdiàn.",
+    "vi": "Tôi đưa anh/chị về khách sạn."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-147",
+   "hanzi": "送",
+   "pinyin": "sòng",
+   "pinyinNumeric": "song4",
+   "topic": "c2-05",
+   "vi": "đưa (ai đi đâu); tiễn; tặng",
+   "example": {
+    "zh": "我送您去酒店。",
+    "pinyin": "Wǒ sòng nín qù jiǔdiàn.",
+    "vi": "Tôi đưa anh/chị về khách sạn."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-ke4qi5",
+   "hanzi": "客气",
+   "pinyin": "kèqi",
+   "pinyinNumeric": "ke4 qi5",
+   "topic": "c2-05",
+   "vi": "khách sáo, khách khí",
+   "example": {
+    "zh": "您太客气了！",
+    "pinyin": "Nín tài kèqi le!",
+    "vi": "Anh/chị khách sáo quá!"
+   },
+   "note": "Chính là 客气 trong 不客气 (bài 1)",
+   "audio": true,
+   "notePy": "Chính là kèqi trong bú kèqi (bài 1)"
+  },
+  {
+   "id": "x-gan1bei1",
+   "hanzi": "干杯",
+   "pinyin": "gānbēi",
+   "pinyinNumeric": "gan1 bei1",
+   "topic": "c2-06",
+   "vi": "cạn ly, cạn chén",
+   "example": {
+    "zh": "为我们的合作干杯！",
+    "pinyin": "Wèi wǒmen de hézuò gānbēi!",
+    "vi": "Vì sự hợp tác của chúng ta, cạn ly!"
+   },
+   "note": "Nghĩa đen: làm khô ly. Nghe 干杯 thì thường phải uống hết",
+   "audio": true,
+   "notePy": "Nghĩa đen: làm khô ly. Nghe gānbēi thì thường phải uống hết"
+  },
+  {
+   "id": "x-jiu3",
+   "hanzi": "酒",
+   "pinyin": "jiǔ",
+   "pinyinNumeric": "jiu3",
+   "topic": "c2-06",
+   "vi": "rượu, đồ uống có cồn",
+   "example": {
+    "zh": "您喝酒吗？",
+    "pinyin": "Nín hē jiǔ ma?",
+    "vi": "Anh/chị có uống rượu không?"
+   },
+   "note": "啤酒 (píjiǔ) bia · 白酒 (báijiǔ) rượu trắng Trung Quốc · 红酒 (hóngjiǔ) rượu vang đỏ",
+   "audio": true,
+   "notePy": "pí jiǔ (píjiǔ) bia · bái jiǔ (báijiǔ) rượu trắng Trung Quốc · hóng jiǔ (hóngjiǔ) rượu vang đỏ"
+  },
+  {
+   "id": "x-jing4",
+   "hanzi": "敬",
+   "pinyin": "jìng",
+   "pinyinNumeric": "jing4",
+   "topic": "c2-06",
+   "vi": "kính (mời rượu một cách trân trọng)",
+   "example": {
+    "zh": "王经理，我敬您一杯。",
+    "pinyin": "Wáng jīnglǐ, wǒ jìng nín yì bēi.",
+    "vi": "Giám đốc Vương, tôi kính ông một ly."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-zhu4",
+   "hanzi": "祝",
+   "pinyin": "zhù",
+   "pinyinNumeric": "zhu4",
+   "topic": "c2-06",
+   "vi": "chúc",
+   "example": {
+    "zh": "祝您身体健康！",
+    "pinyin": "Zhù nín shēntǐ jiànkāng!",
+    "vi": "Chúc anh/chị sức khỏe dồi dào!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-he2zuo4",
+   "hanzi": "合作",
+   "pinyin": "hézuò",
+   "pinyinNumeric": "he2 zuo4",
+   "topic": "c2-06",
+   "vi": "hợp tác",
+   "example": {
+    "zh": "祝我们合作愉快！",
+    "pinyin": "Zhù wǒmen hézuò yúkuài!",
+    "vi": "Chúc chúng ta hợp tác vui vẻ!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-yu2kuai4",
+   "hanzi": "愉快",
+   "pinyin": "yúkuài",
+   "pinyinNumeric": "yu2 kuai4",
+   "topic": "c2-06",
+   "vi": "vui vẻ, thuận lợi",
+   "example": {
+    "zh": "合作愉快！",
+    "pinyin": "Hézuò yúkuài!",
+    "vi": "Hợp tác vui vẻ!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-216",
+   "hanzi": "身体",
+   "pinyin": "shēntǐ",
+   "pinyinNumeric": "shen1 ti3",
+   "topic": "c2-06",
+   "vi": "cơ thể, sức khỏe",
+   "example": {
+    "zh": "您身体好吗？",
+    "pinyin": "Nín shēntǐ hǎo ma?",
+    "vi": "Anh/chị có khỏe không?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-jian4kang1",
+   "hanzi": "健康",
+   "pinyin": "jiànkāng",
+   "pinyinNumeric": "jian4 kang1",
+   "topic": "c2-06",
+   "vi": "khỏe mạnh",
+   "example": {
+    "zh": "祝您身体健康！",
+    "pinyin": "Zhù nín shēntǐ jiànkāng!",
+    "vi": "Chúc anh/chị sức khỏe dồi dào!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-035",
+   "hanzi": "能",
+   "pinyin": "néng",
+   "pinyinNumeric": "neng2",
+   "topic": "c2-06",
+   "vi": "có thể (có khả năng, hoàn cảnh cho phép)",
+   "example": {
+    "zh": "我不能喝酒。",
+    "pinyin": "Wǒ bù néng hē jiǔ.",
+    "vi": "Tôi không uống rượu được."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-374",
+   "hanzi": "开车",
+   "pinyin": "kāichē",
+   "pinyinNumeric": "kai1 che1",
+   "topic": "c2-06",
+   "vi": "lái xe",
+   "example": {
+    "zh": "我开车，不能喝酒。",
+    "pinyin": "Wǒ kāichē, bù néng hē jiǔ.",
+    "vi": "Tôi lái xe, không uống rượu được."
+   },
+   "note": null,
+   "audio": false
+  },
+  {
+   "id": "x-sui2yi4",
+   "hanzi": "随意",
+   "pinyin": "suíyì",
+   "pinyinNumeric": "sui2 yi4",
+   "topic": "c2-06",
+   "vi": "tùy ý (uống bao nhiêu cũng được)",
+   "example": {
+    "zh": "我干杯，您随意。",
+    "pinyin": "Wǒ gānbēi, nín suíyì.",
+    "vi": "Tôi cạn ly, anh/chị cứ tùy ý."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-054",
+   "hanzi": "多",
+   "pinyin": "duō",
+   "pinyinNumeric": "duo1",
+   "topic": "c2-06",
+   "vi": "nhiều; thêm",
+   "example": {
+    "zh": "多吃一点儿！",
+    "pinyin": "Duō chī yìdiǎnr!",
+    "vi": "Ăn thêm chút nữa đi!"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-qian1",
+   "hanzi": "千",
+   "pinyin": "qiān",
+   "pinyinNumeric": "qian1",
+   "topic": "c2-07",
+   "vi": "nghìn",
+   "example": {
+    "zh": "我们要两千个。",
+    "pinyin": "Wǒmen yào liǎngqiān ge.",
+    "vi": "Chúng tôi cần 2.000 cái."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-wan4",
+   "hanzi": "万",
+   "pinyin": "wàn",
+   "pinyinNumeric": "wan4",
+   "topic": "c2-07",
+   "vi": "vạn (mười nghìn)",
+   "example": {
+    "zh": "三万美元",
+    "pinyin": "sānwàn měiyuán",
+    "vi": "30.000 đô la Mỹ"
+   },
+   "note": "一万 = 10.000 · 十万 = 100.000 · 一百万 = 1.000.000",
+   "audio": true,
+   "notePy": "yí wàn = 10.000 · shí wàn = 100.000 · yì bǎi wàn = 1.000.000"
+  },
+  {
+   "id": "x-jia4ge2",
+   "hanzi": "价格",
+   "pinyin": "jiàgé",
+   "pinyinNumeric": "jia4 ge2",
+   "topic": "c2-07",
+   "vi": "giá cả, giá",
+   "example": {
+    "zh": "价格太高了。",
+    "pinyin": "Jiàgé tài gāo le.",
+    "vi": "Giá cao quá."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-mei3yuan2",
+   "hanzi": "美元",
+   "pinyin": "měiyuán",
+   "pinyinNumeric": "mei3 yuan2",
+   "topic": "c2-07",
+   "vi": "đô la Mỹ (USD)",
+   "example": {
+    "zh": "每个十五美元。",
+    "pinyin": "Měi ge shíwǔ měiyuán.",
+    "vi": "Mỗi cái 15 đô la."
+   },
+   "note": "人民币 (rénmínbì) nhân dân tệ · 越南盾 (Yuènán dùn) đồng Việt Nam",
+   "audio": true,
+   "notePy": "rén mín bì (rénmínbì) nhân dân tệ · Yuènán dùn (Yuènán dùn) đồng Việt Nam"
+  },
+  {
+   "id": "x-mei3",
+   "hanzi": "每",
+   "pinyin": "měi",
+   "pinyinNumeric": "mei3",
+   "topic": "c2-07",
+   "vi": "mỗi",
+   "example": {
+    "zh": "每个多少钱？",
+    "pinyin": "Měi ge duōshao qián?",
+    "vi": "Mỗi cái bao nhiêu tiền?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-pian2yi5",
+   "hanzi": "便宜",
+   "pinyin": "piányi",
+   "pinyinNumeric": "pian2 yi5",
+   "topic": "c2-07",
+   "vi": "rẻ",
+   "example": {
+    "zh": "能便宜一点儿吗？",
+    "pinyin": "Néng piányi yìdiǎnr ma?",
+    "vi": "Có thể bớt chút được không?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-134",
+   "hanzi": "高",
+   "pinyin": "gāo",
+   "pinyinNumeric": "gao1",
+   "topic": "c2-07",
+   "vi": "cao",
+   "example": {
+    "zh": "价格很高。",
+    "pinyin": "Jiàgé hěn gāo.",
+    "vi": "Giá rất cao."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-089",
+   "hanzi": "比",
+   "pinyin": "bǐ",
+   "pinyinNumeric": "bi3",
+   "topic": "c2-07",
+   "vi": "so với, hơn (dùng để so sánh)",
+   "example": {
+    "zh": "今年的销售比去年好。",
+    "pinyin": "Jīnnián de xiāoshòu bǐ qùnián hǎo.",
+    "vi": "Doanh số năm nay tốt hơn năm ngoái."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-250",
+   "hanzi": "去年",
+   "pinyin": "qùnián",
+   "pinyinNumeric": "qu4 nian2",
+   "topic": "c2-07",
+   "vi": "năm ngoái",
+   "example": {
+    "zh": "去年我去过中国。",
+    "pinyin": "Qùnián wǒ qùguo Zhōngguó.",
+    "vi": "Năm ngoái tôi đã đi Trung Quốc."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-xiao1shou4",
+   "hanzi": "销售",
+   "pinyin": "xiāoshòu",
+   "pinyinNumeric": "xiao1 shou4",
+   "topic": "c2-07",
+   "vi": "bán hàng, kinh doanh; doanh số",
+   "example": {
+    "zh": "我负责销售。",
+    "pinyin": "Wǒ fùzé xiāoshòu.",
+    "vi": "Tôi phụ trách bán hàng."
+   },
+   "note": "销售额 (xiāoshòu'é) = doanh thu bán hàng · 销售部 = phòng kinh doanh",
+   "audio": true,
+   "notePy": "xiāoshòu é (xiāoshòu'é) = doanh thu bán hàng · xiāoshòu bù = phòng kinh doanh"
+  },
+  {
+   "id": "x-zeng1zhang3",
+   "hanzi": "增长",
+   "pinyin": "zēngzhǎng",
+   "pinyinNumeric": "zeng1 zhang3",
+   "topic": "c2-07",
+   "vi": "tăng trưởng, tăng",
+   "example": {
+    "zh": "销售增长了百分之二十。",
+    "pinyin": "Xiāoshòu zēngzhǎngle bǎi fēn zhī èrshí.",
+    "vi": "Doanh số tăng 20%."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-bai3fen1zhi1",
+   "hanzi": "百分之",
+   "pinyin": "bǎi fēn zhī",
+   "pinyinNumeric": "bai3 fen1 zhi1",
+   "topic": "c2-07",
+   "vi": "phần trăm (đặt trước số)",
+   "example": {
+    "zh": "百分之十",
+    "pinyin": "bǎi fēn zhī shí",
+    "vi": "10%"
+   },
+   "note": "Nghĩa đen: \"trong một trăm phần\". 百分之十 = 10%",
+   "audio": false,
+   "notePy": "Nghĩa đen: \"trong một trăm phần\". bǎi fēn zhī shí = 10%"
+  },
+  {
+   "id": "x-xiang4mu4",
+   "hanzi": "项目",
+   "pinyin": "xiàngmù",
+   "pinyinNumeric": "xiang4 mu4",
+   "topic": "c2-08",
+   "vi": "dự án, hạng mục",
+   "example": {
+    "zh": "这个项目快完成了。",
+    "pinyin": "Zhège xiàngmù kuài wánchéng le.",
+    "vi": "Dự án này sắp xong rồi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-jin4du4",
+   "hanzi": "进度",
+   "pinyin": "jìndù",
+   "pinyinNumeric": "jin4 du4",
+   "topic": "c2-08",
+   "vi": "tiến độ",
+   "example": {
+    "zh": "项目的进度怎么样？",
+    "pinyin": "Xiàngmù de jìndù zěnmeyàng?",
+    "vi": "Tiến độ dự án thế nào rồi?"
+   },
+   "note": null,
+   "audio": false
+  },
+  {
+   "id": "x-wan2cheng2",
+   "hanzi": "完成",
+   "pinyin": "wánchéng",
+   "pinyinNumeric": "wan2 cheng2",
+   "topic": "c2-08",
+   "vi": "hoàn thành, xong",
+   "example": {
+    "zh": "已经完成了。",
+    "pinyin": "Yǐjīng wánchéng le.",
+    "vi": "Đã hoàn thành rồi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-159",
+   "hanzi": "正在",
+   "pinyin": "zhèngzài",
+   "pinyinNumeric": "zheng4 zai4",
+   "topic": "c2-08",
+   "vi": "đang (làm)",
+   "example": {
+    "zh": "我们正在准备文件。",
+    "pinyin": "Wǒmen zhèngzài zhǔnbèi wénjiàn.",
+    "vi": "Chúng tôi đang chuẩn bị tài liệu."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-139",
+   "hanzi": "准备",
+   "pinyin": "zhǔnbèi",
+   "pinyinNumeric": "zhun3 bei4",
+   "topic": "c2-08",
+   "vi": "chuẩn bị",
+   "example": {
+    "zh": "我准备一下。",
+    "pinyin": "Wǒ zhǔnbèi yíxià.",
+    "vi": "Để tôi chuẩn bị một chút."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-088",
+   "hanzi": "快",
+   "pinyin": "kuài",
+   "pinyinNumeric": "kuai4",
+   "topic": "c2-08",
+   "vi": "nhanh; sắp (kuài… le: sắp… rồi)",
+   "example": {
+    "zh": "快完成了。",
+    "pinyin": "Kuài wánchéng le.",
+    "vi": "Sắp xong rồi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-028",
+   "hanzi": "还",
+   "pinyin": "hái",
+   "pinyinNumeric": "hai2",
+   "topic": "c2-08",
+   "vi": "vẫn, còn",
+   "example": {
+    "zh": "还没完成呢。",
+    "pinyin": "Hái méi wánchéng ne.",
+    "vi": "Vẫn chưa xong."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-063",
+   "hanzi": "呢",
+   "pinyin": "ne",
+   "pinyinNumeric": "ne5",
+   "topic": "c2-08",
+   "vi": "trợ từ cuối câu (vẫn đang…; còn … thì sao?)",
+   "example": {
+    "zh": "我们正在做呢。",
+    "pinyin": "Wǒmen zhèngzài zuò ne.",
+    "vi": "Chúng tôi đang làm đây."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-ji4hua4",
+   "hanzi": "计划",
+   "pinyin": "jìhuà",
+   "pinyinNumeric": "ji4 hua4",
+   "topic": "c2-08",
+   "vi": "kế hoạch; lên kế hoạch",
+   "example": {
+    "zh": "这是我们的计划。",
+    "pinyin": "Zhè shì wǒmen de jìhuà.",
+    "vi": "Đây là kế hoạch của chúng tôi."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-xu1yao4",
+   "hanzi": "需要",
+   "pinyin": "xūyào",
+   "pinyinNumeric": "xu1 yao4",
+   "topic": "c2-08",
+   "vi": "cần",
+   "example": {
+    "zh": "需要我帮您吗？",
+    "pinyin": "Xūyào wǒ bāng nín ma?",
+    "vi": "Anh/chị có cần tôi giúp không?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-153",
+   "hanzi": "帮",
+   "pinyin": "bāng",
+   "pinyinNumeric": "bang1",
+   "topic": "c2-08",
+   "vi": "giúp",
+   "example": {
+    "zh": "我帮你看一下。",
+    "pinyin": "Wǒ bāng nǐ kàn yíxià.",
+    "vi": "Để tôi xem giúp anh."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-093",
+   "hanzi": "觉得",
+   "pinyin": "juéde",
+   "pinyinNumeric": "jue2 de5",
+   "topic": "c2-09",
+   "vi": "cảm thấy, thấy rằng",
+   "example": {
+    "zh": "我觉得这个计划很好。",
+    "pinyin": "Wǒ juéde zhège jìhuà hěn hǎo.",
+    "vi": "Tôi thấy kế hoạch này rất tốt."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-jian4yi4",
+   "hanzi": "建议",
+   "pinyin": "jiànyì",
+   "pinyinNumeric": "jian4 yi4",
+   "topic": "c2-09",
+   "vi": "đề xuất, kiến nghị; lời đề xuất",
+   "example": {
+    "zh": "我建议下个月开始。",
+    "pinyin": "Wǒ jiànyì xià ge yuè kāishǐ.",
+    "vi": "Tôi đề xuất bắt đầu từ tháng sau."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-yi4jian4",
+   "hanzi": "意见",
+   "pinyin": "yìjiàn",
+   "pinyinNumeric": "yi4 jian4",
+   "topic": "c2-09",
+   "vi": "ý kiến",
+   "example": {
+    "zh": "您有什么意见？",
+    "pinyin": "Nín yǒu shénme yìjiàn?",
+    "vi": "Anh/chị có ý kiến gì không?"
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-ying1gai1",
+   "hanzi": "应该",
+   "pinyin": "yīnggāi",
+   "pinyinNumeric": "ying1 gai1",
+   "topic": "c2-09",
+   "vi": "nên, cần phải",
+   "example": {
+    "zh": "我们应该准备一下。",
+    "pinyin": "Wǒmen yīnggāi zhǔnbèi yíxià.",
+    "vi": "Chúng ta nên chuẩn bị một chút."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-323",
+   "hanzi": "最好",
+   "pinyin": "zuìhǎo",
+   "pinyinNumeric": "zui4 hao3",
+   "topic": "c2-09",
+   "vi": "tốt nhất là",
+   "example": {
+    "zh": "最好明天开会。",
+    "pinyin": "Zuìhǎo míngtiān kāihuì.",
+    "vi": "Tốt nhất là mai họp."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-tong2yi4",
+   "hanzi": "同意",
+   "pinyin": "tóngyì",
+   "pinyinNumeric": "tong2 yi4",
+   "topic": "c2-09",
+   "vi": "đồng ý",
+   "example": {
+    "zh": "我们都同意。",
+    "pinyin": "Wǒmen dōu tóngyì.",
+    "vi": "Chúng tôi đều đồng ý."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-dao4li3",
+   "hanzi": "道理",
+   "pinyin": "dàolǐ",
+   "pinyinNumeric": "dao4 li3",
+   "topic": "c2-09",
+   "vi": "lý lẽ, đạo lý (yǒu dàolǐ: có lý)",
+   "example": {
+    "zh": "这个建议很有道理。",
+    "pinyin": "Zhège jiànyì hěn yǒu dàolǐ.",
+    "vi": "Đề xuất này rất có lý."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-dan4shi4",
+   "hanzi": "但是",
+   "pinyin": "dànshì",
+   "pinyinNumeric": "dan4 shi4",
+   "topic": "c2-09",
+   "vi": "nhưng",
+   "example": {
+    "zh": "但是价格太高了。",
+    "pinyin": "Dànshì jiàgé tài gāo le.",
+    "vi": "Nhưng giá cao quá."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-ke3neng2",
+   "hanzi": "可能",
+   "pinyin": "kěnéng",
+   "pinyinNumeric": "ke3 neng2",
+   "topic": "c2-09",
+   "vi": "có thể, có lẽ",
+   "example": {
+    "zh": "他可能不同意。",
+    "pinyin": "Tā kěnéng bù tóngyì.",
+    "vi": "Có lẽ anh ấy không đồng ý."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-kao3lv4",
+   "hanzi": "考虑",
+   "pinyin": "kǎolǜ",
+   "pinyinNumeric": "kao3 lv4",
+   "topic": "c2-09",
+   "vi": "cân nhắc, suy nghĩ",
+   "example": {
+    "zh": "我们考虑一下吧。",
+    "pinyin": "Wǒmen kǎolǜ yíxià ba.",
+    "vi": "Để chúng tôi cân nhắc thêm."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "x-ru2guo3",
+   "hanzi": "如果",
+   "pinyin": "rúguǒ",
+   "pinyinNumeric": "ru2 guo3",
+   "topic": "c2-09",
+   "vi": "nếu",
+   "example": {
+    "zh": "如果您方便，我们明天见吧。",
+    "pinyin": "Rúguǒ nín fāngbiàn, wǒmen míngtiān jiàn ba.",
+    "vi": "Nếu anh/chị tiện, mai chúng ta gặp nhé."
+   },
+   "note": null,
+   "audio": true
+  },
+  {
+   "id": "hsk1-011",
+   "hanzi": "就",
+   "pinyin": "jiù",
+   "pinyinNumeric": "jiu4",
+   "topic": "c2-09",
+   "vi": "thì (sau rúguǒ: nếu); ngay",
+   "example": {
+    "zh": "如果价格便宜一点儿，我们就买。",
+    "pinyin": "Rúguǒ jiàgé piányi yìdiǎnr, wǒmen jiù mǎi.",
+    "vi": "Nếu giá rẻ hơn chút, chúng tôi sẽ mua."
+   },
+   "note": null,
+   "audio": true
+  }
+ ]
+}
